@@ -9,14 +9,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@vitejs/plugin-react": "latest",
     "@tailwindcss/vite": "latest",
-    "vite": "latest",
+    "@vitejs/plugin-react": "latest",
+    "papaparse": "latest",
     "react": "latest",
     "react-dom": "latest",
+    "recharts": "latest",
     "tailwindcss": "latest",
-    "papaparse": "latest",
-    "recharts": "latest"
+    "vite": "latest"
   },
   "devDependencies": {}
 }
