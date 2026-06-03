@@ -1,1 +1,22 @@
-
+{
+  "name": "edco-dashboard",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "@tailwindcss/vite": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "latest",
+    "papaparse": "latest",
+    "recharts": "latest"
+  },
+  "devDependencies": {}
+}
